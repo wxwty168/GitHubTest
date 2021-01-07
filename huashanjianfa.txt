@@ -2,3 +2,4 @@
 add origin test
 add origin_ssh test
 新成员修改内容
+test pull
